@@ -1,0 +1,12 @@
+{
+  "title": "GitHub API Demo-2",
+  "description": "GitHub API Demo is an Android app that works with GitHub online and shows your items in scrolling lists.\n\nOne screen: Main.\nTap: Load profile and List repositories.\n\nWhat it does:\n• Works with GitHub online\n• Shows your items in scrolling lists\n• Lets you type and save your own text\n\nMade with Sketchware AI · Material 3 design · Android 5.0 to 17.",
+  "made_with": "Sketchware AI",
+  "publish_number": 1,
+  "published_at": 1795404847972,
+  "version_name": "1.0",
+  "version_code": "1",
+  "action": "published",
+  "changelog": "## GitHub API Demo v1.0 (1): first release\n\n- **1 screen**: MainActivity.java\n- 7 widgets, 33 logic blocks, 1 variable\n- Widgets: 2 Button, 2 TextView, 1 EditText, 1 LinearLayout, 1 ListView\n- Components: GitHub\n- Libraries: AppCompat \u0026 Material\n- Android 5.0 (API 21) to 17 (API 37)\n- Material 3 design",
+  "stats_discussion": 1
+}
